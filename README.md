@@ -61,7 +61,7 @@ The first step was preparing the dataset for analysis. Using **Power Query**, I:
 
 ### Power Query Transformation
 
-("Images\Transform_data_jobs_all.png")
+![Transform Data Jobs](Images/Transform_data_jobs_all.png)
 
 ---
 
