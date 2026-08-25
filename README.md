@@ -96,9 +96,7 @@ I compared the number of skills required for different job roles with their medi
 
 ### Visualization
 
-> **Insert Chart Here**
-
-<!-- ![Skills vs Salary](images/chart-skills-vs-salary.png) -->
+![Power Query]("Images\Transform_data_jobs_all.png")
 
 ### Takeaway
 
