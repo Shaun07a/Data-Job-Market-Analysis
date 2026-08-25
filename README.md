@@ -50,7 +50,7 @@ Finally, I loaded both transformed queries into the workbook, setting the founda
 
 🛠️ data_job_skills
 
-2_Project_Analysis_Screenshot4.png
+![Transform Data Jobs skills](Images/Load_data_job_skills.png) 
 
 📊 Analysis
 💡 Insights
