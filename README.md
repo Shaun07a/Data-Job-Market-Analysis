@@ -40,7 +40,7 @@ Then, I transformed each query by changing column types, removing unnecessary co
 
 🛠️ data_job_skills
 
-2_Project_Analysis_Screenshot2.png
+![Transform Data Jobs skills](Images/Transform_data_jobs_skills.png)
 
 🔗 Load
 Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.
