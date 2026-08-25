@@ -61,10 +61,7 @@ The first step was preparing the dataset for analysis. Using **Power Query**, I:
 
 ### Power Query Transformation
 
-> **Insert Image Here**
-
-<!-- Replace with your screenshot -->
-<!-- ![Power Query Transformation](images/power-query.png) -->
+("Images\Transform_data_jobs_all.png")
 
 ---
 
