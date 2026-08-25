@@ -58,7 +58,7 @@ Finally, I loaded both transformed queries into the workbook, setting the founda
 
 💼 Roles that require fewer skills, like Business Analyst, tend to offer lower salaries, suggesting that more specialized skill sets command higher market value.
 
-2_Project_Analysis_Chart1.png
+![Transform Data Jobs skills](Images/Analysis_Scatter_Plot.png)  
 
 🤔 So What
 This trend emphasizes the value of acquiring multiple relevant skills, particularly for individuals aiming for higher-paying roles.
